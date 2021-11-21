@@ -10,7 +10,7 @@ app.use(express.static(__dirname + "/public"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "Homepage",
+    title: "KILL THE ZERO",
     people: people.profiles
   });
 });
@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 app.get("/profile", (req, res) => {
   const person = people.profiles.find(p => p.id === req.query.id);
   res.render("profile", {
-    title: `About ${person.firstname} ${person.lastname}`,
+    title: `About ${person.firstname}`,
     person
   });
 });

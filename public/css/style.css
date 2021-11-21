@@ -32,6 +32,7 @@ html {
    ========================================================================== */
 
 body {
+  background-color: #000000;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; /* [2] */
 }
 
@@ -45,8 +46,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80px;
-  background-color: #525286;
+  height:80px;
+  background-color: #000000;
   color: #FFFFFF;
   margin-bottom: 50px;
 }
@@ -62,6 +63,8 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
+
+  color: #FFFFFF;
 }
 
 
@@ -91,6 +94,7 @@ body {
   display: flex;
   height: 100vh;
   width: 100%;
+  color: #FFFFFF;
 }
 
 .profile-image {
@@ -127,7 +131,14 @@ body {
 }
 
 .button-twitter {
-  color: #FFFFFF;
-  background-color: #659AF1;
+  color: #000000;
+  background-color: #FFFFFF;
   border-radius: 5px;
 }
+/*
+.button-telegram {
+  color: #000000;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+}
+*/

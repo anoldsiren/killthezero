@@ -1,36 +1,39 @@
 {
   "profiles": [
     {
-      "firstname": "Tom",
-      "lastname": "Jagger",
+      "firstname": "Overview",
+      "lastname": "",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Developer, Writer and Speaker",
+        "",
+      "tagline": "No Dev Wallet! All LP Burnt! 7% Burn Fee",
       "twitter": "https://twitter.com/",
-      "imgSrc": "tom-jagger.jpg",
-      "id": "tom"
+      "telegram": "https://t.me/kill_the_zero",
+      "imgSrc": "burning.jpeg",
+      "id": "Tom"
     },
 
     {
-      "firstname": "Sarah",
-      "lastname": "You",
+      "firstname": "About",
+      "lastname": "",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "UX/UI Designer",
+        "All reflection crypto is dumped. Our ecosystem is a deflationary system. Ultimately, we dream of an increase in value, not an increase quantity.",
+      "tagline": "What is the KILL THE ZERO",
       "twitter": "https://twitter.com/",
-      "imgSrc": "sarah-you.jpg",
-      "id": "sarah"
+      "telegram": "https://t.me/kill_the_zero",
+      "imgSrc": "killthezero.jpeg",
+      "id": "Sarah"
     },
 
     {
-      "firstname": "Caroline",
-      "lastname": "Green",
+      "firstname": "Token Matrix",
+      "lastname": "",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Consultant and Photographer",
+        "50% Burn, 45% Liquidity, 5% Give away",
+      "tagline": "Deflection",
       "twitter": "https://twitter.com/",
-      "imgSrc": "caroline-green.jpg",
-      "id": "caroline"
+      "telegram": "https://t.me/kill_the_zero",
+      "imgSrc": "chart3.jpeg",
+      "id": "Caroline"
     }
   ]
 }
